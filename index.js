@@ -1,7 +1,7 @@
 CLASSES = {
-  0: 'Alma Mater',
-  1: 'Butler library',
-  2: 'Lernerhall',
+  0: 'Alma Mater   0.921',
+  1: 'Butler library   0.078',
+  2: 'Lernerhall   0.002',
 };
 
 const MODEL_PATH =

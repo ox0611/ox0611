@@ -1,5 +1,5 @@
 CLASSES = {
-  0: 'Alma Mater'
+  0: 'Alma Mater',
   1: 'Butler library',
   2: 'Lernerhall',
 };
